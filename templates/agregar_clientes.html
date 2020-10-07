@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+
+{% block head%}
+<title>Clientes</title>
+{% endblock %}
+
+
+
+{% block body%}
+<h1>Ingresar un nuevo cliente</h1>
+<hr>
+
+<h2>Ingresa a un nuevo cliente:</h2>
+<form action='/AgregarCliente' method='POST'>
+
+        Nombre: <input type='text' name='nombre' id='nombre'>
+        <br>
+        Rut: <input type='text' name='rut' id='rut'>
+        <br>
+        Monto: <input type='int' name ='monto' id='motno'>
+        <br>
+
+
+
+        <input type='submit' value = 'agregar'>
+</form>
+<hr>
+
+
+{% endblock %}
