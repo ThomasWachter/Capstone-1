@@ -64,7 +64,7 @@ $(function(){
   <main role="main" class="inner cover">
 <hr>
 
-<h3 class="cover-heading" >Ingresa el RUT del cliente para agregar  (12345678-9)</h3>
+<h3 class="cover-heading" >Ingresa el RUT del cliente (12345678-9)</h3>
 
 <form action='/AgregarCliente' method='POST'>
 		    <br>
@@ -72,8 +72,22 @@ $(function(){
         <br>
 		    <br>
 
-        <input type='submit' value = 'Agregar'>
+        
 </form>
+
+<h3 class="cover-heading" >Ingresa el monto pagado:</h3>
+
+<form action='/AgregarCliente' method='POST'>
+		    <br>
+        Monto: <input type='text' name='monto' id='monto'>
+        <br>
+		    <br>
+
+        <input type='submit' value = 'Descontar'>
+</form>
+
+
+
 <hr>
   </main>
 

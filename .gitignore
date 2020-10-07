@@ -1,3 +1,6 @@
+idea/*
 
-.idea/*
-venv/*
+.idea/Capstone.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
