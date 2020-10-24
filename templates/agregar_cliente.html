@@ -1,0 +1,60 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <title>SGC - CARMAK</title>
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="../cover.css" rel="stylesheet">
+
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous">
+</script>
+<script> 
+$(function(){
+  $("#header").load("header.html"); 
+  $("#footer").load("footer.html"); 
+});
+</script>
+{% endblock %}
+{% block body%}
+<div class="text-center cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+    <header class="masthead mb-auto">
+        <div id="header"></div>
+    </header>
+
+  <main role="main" class="inner cover">
+    <hr>
+    <h3 class="cover-heading" >Ingresa el RUT del cliente para agregar  (12345678-9)</h3>
+
+    <form action='/AgregarCliente' method='POST'>
+        <br>
+            Rut: <input type='text' name='rut' id='rut'>
+        <br>
+        <br>
+        <input type='submit' value = 'Agregar'>
+    </form>
+    <hr>
+  </main>
+
+  <footer class="mastfoot mt-auto">
+    <div id="footer"></div>
+  </footer>
+</div>
+{% endblock %}
