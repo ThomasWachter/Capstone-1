@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+<Documento ID="DOCT33F1625P0">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>1625</Folio>
+<FchEmis>2019-08-13</FchEmis>
+<FmaPago>1</FmaPago>
+</IdDoc>
+<Emisor>
+<RUTEmisor>76873378-3</RUTEmisor>
+<RznSoc>Distribuidora de Combustibles Petrocentro Limitada</RznSoc>
+<GiroEmis>ESTACION DE SERVICIOS</GiroEmis>
+<Acteco>473000</Acteco>
+<Sucursal>CH9411</Sucursal>
+<CdgSIISucur>999999999</CdgSIISucur>
+<DirOrigen>Av.Bilbao 281</DirOrigen>
+<CmnaOrigen>Peñaflor</CmnaOrigen>
+<CiudadOrigen>Talagante</CiudadOrigen>
+</Emisor>
+<RUTMandante>79588870-5</RUTMandante>
+<Receptor>
+<RUTRecep>76868218-6</RUTRecep>
+<RznSocRecep>TRANSPORTE  RODRIGO LISANDRO</RznSocRecep>
+<GiroRecep>AGENCIA Y TRANSPORTES</GiroRecep>
+<DirRecep>AVDA LARRAIN  2261 CASA J</DirRecep>
+<CmnaRecep>Peñaflor</CmnaRecep>
+<CiudadRecep>Talagante</CiudadRecep>
+</Receptor>
+<Transporte>
+<Patente>KGCG53</Patente>
+<DirDest>AVDA LARRAIN  2261 CASA J</DirDest>
+<CmnaDest>Peñaflor</CmnaDest>
+<CiudadDest>Talagante</CiudadDest>
+</Transporte>
+<Totales>
+<MntNeto>26713</MntNeto>
+<MntExe>0</MntExe>
+<TasaIVA>19.0</TasaIVA>
+<IVA>5076</IVA>
+<IVAProp>0</IVAProp>
+<IVATerc>5076</IVATerc>
+<ImptoReten>
+<TipoImp>28</TipoImp>
+<TasaImp>11.7</TasaImp>
+<MontoImp>4214</MontoImp>
+</ImptoReten>
+<MntTotal>36003</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<NmbItem>DIESEL A1</NmbItem>
+<QtyItem>60.306533</QtyItem>
+<UnmdItem>Litr</UnmdItem>
+<PrcItem>442.96</PrcItem>
+<CodImpAdic>28</CodImpAdic>
+<MontoItem>26713</MontoItem>
+</Detalle>
+	<TED version="1.0"><DD><RE>76873378-3</RE><TD>33</TD><F>1625</F><FE>2019-08-13</FE><RR>76868218-6</RR><RSR>TRANSPORTE  RODRIGO LISANDRO</RSR><MNT>36003</MNT><IT1>DIESEL A1</IT1><CAF version="1.0"><DA><RE>76873378-3</RE><RS>DISTRIBUIDORA DE COMBUSTIBLES PETROCENTR</RS><TD>33</TD><RNG><D>1518</D><H>2403</H></RNG><FA>2019-07-16</FA><RSAPK><M>xLDif/wwT0LyFzs5hVhszuJRqjSbNlUlJ4dwTckff9guXVfbWVGqZI5B604HcURrldyLTs82sQEEt7VIYmJM8w==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">QqeC6DdyoqnVt5n8BLgQVhqeYiWlxbSAFOH+cIBLk0EbtyV4gjRTKLIZrQLKzD4r7E31bZTcnLIW+SxpJ2+7IQ==</FRMA></CAF><TSTED>2019-08-13T10:44:39</TSTED></DD><FRMT algoritmo="SHA1withRSA">WpJaTQmTnAD0GJ47Pt92yOx+iDMtFhfEol/3fdg2qwPz8a9wOPecBv3+nlIZjTJ9VcfnwXE4x8LG
+XiQH4uiT5g==</FRMT></TED>
+<TmstFirma>2019-08-13T10:44:39</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#DOCT33F1625P0"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>yKUsk7fwTG4ZzQOSOHTcnvoQz3E=</DigestValue></Reference></SignedInfo><SignatureValue>kb/QYZi/x78e//bzcy0HxYKHRAu9Bx8k4N5JCelHh5icAk30lyjTHvczz+9iEadmFQkpQGbOPTkT
+evYw1iNEx8zttLlAhuaBTUr3lJK0dMKDhD3nDoInkkwioSQzOWBIohRzRu0Q6N5FgHpIUhTwe6v8
+LF8DR/RDZJ1LnGzBjst9u+Rwe0w0x/Jr6LfnZReoPaiDCOYkhEDBLjs2cX+bCxO+d2ACOzGFG7vY
+gdFpOvzRyd/0Qr0f0elBQ6UZPRqLspuY1QhWKSTpVOGOAlv8a1Q+lpE7qzRSL6+VhGW0b6mQJVrV
+0+6J56aVU6Jkx1sd7ROvq9e7ZiI6FTFsp2Nn8g==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oJy9Og/PlyyMZLY2HRlA0q2VFPTJhApj8Cs9VZ7TZ3DIVkRZaujNR4zKRkF1VPw9DizR4x6A72mC
+8eWRJmUh91XMdViOYuIuHTHCGX5F51b77yJHsZ4mCr65MHmHa5rGgEk5am8bkY2zDqHCjIkz3kWx
+RAd0h070A5uDhAigH8Naac/ojnNRwgt5+V1mIaSHfGLLD9urZE9C7sQqtG+WBzITzKEabogzZcop
+cDycxmAnXtQ7cTxHHJ7r9gjSmCFSO7CKEX8Lrx7eAyWfv7+PoBfcnaqZGtRaV3wORr2URAce0Vny
+V3qGeO9DNzBuGkimwlHopiqjTOYxhJuv5GIcSw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGljCCBX6gAwIBAgIKRos07AABAAB1cDANBgkqhkiG9w0BAQsFADCB0DELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzESMBAGA1UE
+ChMJUEFQRVJMRVNTMSAwHgYDVQQLExdBdXRvcmlkYWQgQ2VydGlmaWNhZG9yYTEuMCwGA1UEAxMl
+UEFQRVJMRVNTIENBIEZJUk1BIEVMRUNUUk9OSUNBIFNJTVBMRTEpMCcGCSqGSIb3DQEJARYaY29t
+dW5pY2FjaW9uZXNAcGtpY2hpbGUuY2wwHhcNMTgxMjA3MTYzNzIzWhcNMjExMjA2MTYzNzIzWjCB
+2zELMAkGA1UEBhMCQ0wxKjAoBgNVBAgMIVJFR0nDk04gTUVUUk9QT0xJVEFOQSBERSBTQU5USUFH
+TzEOMAwGA1UEBxMFTUFJUE8xHTAbBgNVBAoTFFNpbiBkYXRvcyBkZSBFbXByZXNhMR8wHQYDVQQL
+ExZTaW4gZGF0b3MgZGUgT2N1cGFjaW9uMScwJQYDVQQDEx5KdWxpYW4gQW5kcmVzIFF1ZXphZGEg
+TWFjcXVlZW4xJzAlBgkqhkiG9w0BCQEWGGp1bGlhbi5xdWV6YWRhQGNhcm1hay5jbDCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAKCcvToPz5csjGS2Nh0ZQNKtlRT0yYQKY/ArPVWe02dw
+yFZEWWrozUeMykZBdVT8PQ4s0eMegO9pgvHlkSZlIfdVzHVYjmLiLh0xwhl+RedW++8iR7GeJgq+
+uTB5h2uaxoBJOWpvG5GNsw6hwoyJM95FsUQHdIdO9AObg4QIoB/DWmnP6I5zUcILefldZiGkh3xi
+yw/bq2RPQu7EKrRvlgcyE8yhGm6IM2XKKXA8nMZgJ17UO3E8Rxye6/YI0pghUjuwihF/C68e3gMl
+n7+/j6AX3J2qmRrUWld8Dka9lEQHHtFZ8ld6hnjvQzcwbhpIpsJR6KYqo0zmMYSbr+RiHEsCAwEA
+AaOCAmMwggJfMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILMzj6C+M0d2Ysego+FV4TOlTWB
+EIK+jX6GzI1IAgFkAgECMIIBhQYDVR0gBIIBfDCCAXgwggF0BggrBgEEAYLENzCCAWYwggFiBggr
+BgEFBQcCAjCCAVQeggFQAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAHAAYQByAGEAIAB1AHMAbwAg
+AFQAcgBpAGIAdQB0AGEAcgBpAG8ALgAgAFAAUwBDACAAUABhAHAAZQByAGwAZQBzAHMAIABhAGMA
+cgBlAGQAaQB0AGEAZABvACAAcwBlAGcA+gBuACAAUgAuAEEALgAgAEUAeABlAG4AdABhACAATgC6
+ACAAMQA3ADIALAAgAGQAZQAgADMAMAAgAGQAZQAgAGUAbgBlAHIAbwAgAGQAZQAgADIAMAAxADMA
+LAAgAGQAZQAgAGwAYQAgAFMAdQBiAHMAZQBjAHIAZQB0AGEAcgDtAGEAIABkAGUAIABFAGMAbwBu
+AG8AbQDtAGEALAAgAHkAIABFAG0AcAByAGUAcwBhAHMAIABkAGUAIABNAGUAbgBvAHIAIABUAGEA
+bQBhAPEAbwAuMB0GA1UdDgQWBBR+DNv+4ALVU1E41jogPXctQ+XWkDALBgNVHQ8EBAMCBPAwHwYD
+VR0jBBgwFoAUlOSvN2VmXelnzD68nW9xGsuMi+wwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgox
+ODYzNzEwMC0zMCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MTUzMTAtNjANBgkqhkiG9w0B
+AQsFAAOCAQEAIDhTPpNJQZV1krDx+H4ms5LZ5ZjDowQThxAWkpflZ7Jo6fSxbtcc8Mk3mUIorCQb
+gl19l2KqDb1rK/lykLeDBBPLSn5TIMOB0jhXkTYHjebV/wHVh1Frp815+SeKbWRznLYySsLAj5jL
+YHNUu1arwc/YI1vYbtH0P9bQE5bntsMG5OJqjJ9h/zpRQRMKhyfSzB5PyafCky6iF9579fqVAsjV
+tEStP0QkcTqVOoRFFMgPTiFrEr7LfSA4sb7L4Zr5p70jDPnp2osCjcF9R603KNa6ucD99hz39mO8
+0DXIApZ0UGheLCglCfaDHmTNLFQy9BsxaWqeNIC4WfaGRTb80A==</X509Certificate></X509Data></KeyInfo></Signature>
+<Personalizados>
+<DocPersonalizado xmlns="http://www.sii.cl/SiiDte" ID="DOCT33F1625P0">
+<campoString name="FechaLogica">2019-08-13</campoString>
+<campoString name="DirSuc">Av.Bilbao 281 - Larrain</campoString>
+<campoString name="CmnaSucursal">Peñaflor</campoString>
+<campoString name="CiudadSucursal">Talagante</campoString>
+<campoString name="GlosaCom">POR CUENTA Y ORDEN DEL MANDANTE ESMAX DISTRIBUCION SpA</campoString>
+<campoString name="NombreSucursal">Distribuidora de Combustibles Petrocentro Limitada</campoString>
+<campoString name="vMontoImp">4214</campoString>
+<campoString name="vTasaImp">11.7</campoString>
+<ImpresionDetalle>
+<PersonNroLinDet>1</PersonNroLinDet>
+<DetPersonAFN_01>IE DIE.08/08/19 Base 73,550+Var -03,678</DetPersonAFN_01>
+<DetPersonAFN_02></DetPersonAFN_02>
+<DetPersonAFN_03>up</DetPersonAFN_03>
+</ImpresionDetalle>
+<ImpresionDetalle>
+<PersonNroLinDet>1</PersonNroLinDet>
+<DetPersonAFN_01>9411 . Por cada $10.000 en combustible lleva tu</DetPersonAFN_01>
+<DetPersonAFN_02>entrada al cine por $2.200 c/u. ENTRADAS A LA</DetPersonAFN_02>
+<DetPersonAFN_03>down</DetPersonAFN_03>
+</ImpresionDetalle>
+<ImpresionDetalle>
+<PersonNroLinDet>2</PersonNroLinDet>
+<DetPersonAFN_01>VENTA EN LAS ESTACIONES PETROBRAS ADHERIDAS HASTA</DetPersonAFN_01>
+<DetPersonAFN_02>AGOTAR STOCK</DetPersonAFN_02>
+<DetPersonAFN_03>down</DetPersonAFN_03>
+</ImpresionDetalle>
+</DocPersonalizado>
+</Personalizados>
+</DTE>
